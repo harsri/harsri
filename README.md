@@ -127,20 +127,10 @@ const harshit = {
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsri&theme=dark&hide_border=true&background=00000000" />
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+  </p>
 </div>
 
 ---
