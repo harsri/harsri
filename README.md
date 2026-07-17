@@ -61,7 +61,7 @@ const harshit = {
 
 ---
 
-## Projects & Achievements
+## Projects
 
 <table>
   <tr>
@@ -101,16 +101,27 @@ const harshit = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Achievements</h3>
-      <ul>
-        <li><strong>Winner</strong> - Eureka Case Study, IIT BHU</li>
-        <li><strong>Runner-up</strong> - Vyapar Vichar, IIIT Nagpur</li>
-        <li><strong>LeetCode</strong> - 650+ Problems (Max: 1756, Top 700 globally)</li>
-        <li><strong>CodeChef</strong> - Global Rank 318 in Starter 193</li>
-      </ul>
+      <h3 align="center">NLP</h3>
+      <p align="center"><i>Intelligent Text Analysis</i></p>
+      <p>Natural Language Processing project exploring text analysis and intelligent language processing techniques.</p>
+      <p align="center">
+        <code>Python</code> <code>NLP</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/harsri/NLP">🔗 GitHub</a>
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+## Achievements
+
+- 🏆 **Winner** — Eureka Case Study, IIT BHU
+- 🥈 **1st Runner-up** — Vyapar Vichar, IIIT Nagpur
+- 💻 **LeetCode** — 650+ Problems Solved (Max Rating: 1756, Top 700 globally)
+- 🚀 **CodeChef** — Global Rank 318 in Starter 193
 
 ---
 
