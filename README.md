@@ -130,17 +130,17 @@ const harshit = {
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=dark&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="100%" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsri&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsri&theme=dark&hide_border=true&background=00000000" />
 </div>
 
 ---
@@ -148,11 +148,7 @@ const harshit = {
 <div align="center">
   <h2>Contribution Graph</h2>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
+  <img src="https://github.com/harsri/harsri/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Graph Snake" />
 </div>
 
 ---
