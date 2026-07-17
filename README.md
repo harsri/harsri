@@ -116,12 +116,20 @@ const harshit = {
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=dark&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
   
-  <br><br>
+  <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsri&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsri&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -134,9 +142,6 @@ const harshit = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
   </picture>
-  
-  <br>
-  <i>(Note: Snake updates automatically via GitHub Actions!)</i>
 </div>
 
 ---
