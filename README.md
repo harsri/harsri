@@ -116,8 +116,8 @@ const harshit = {
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=harsri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsri&layout=compact&theme=github_dark&hide_border=true" width="48%" />
   
   <br><br>
   
@@ -130,9 +130,9 @@ const harshit = {
   <h2>Contribution Graph</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsri/harsri/output/github-contribution-grid-snake.svg?v=1">
   </picture>
   
   <br>
